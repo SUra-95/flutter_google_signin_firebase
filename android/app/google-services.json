@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "56972835720",
+    "project_id": "fluttersignin-55a13",
+    "storage_bucket": "fluttersignin-55a13.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56972835720:android:ef902313635d0b656e183d",
+        "android_client_info": {
+          "package_name": "com.qmastertest.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56972835720-7alvk6p611cqdib3regcocpiemj3rg2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEWEYHydewk3ZZ8lAWn0TJMU7cJE7JCII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56972835720-7alvk6p611cqdib3regcocpiemj3rg2r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "56972835720-h82q2mpvt5sqn1bbcv903k1qg1ici0vn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qmastertest.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
